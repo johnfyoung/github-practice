@@ -1,3 +1,3 @@
 # github-practice
 
-I am editing this in the develop branch
+This is a project for testing github
